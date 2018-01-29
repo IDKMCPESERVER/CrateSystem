@@ -6,8 +6,8 @@
 
 - [ ] Enchantment on Crate Items - (VanillaEnchantment)
 - [ ] Custom Enchantment on Crate Items - (PiggyCustomEnchants)
-- [ ] true/false crates
 - [ ] open crate with command
+- [ ] ui/chest/nothing types
 - [ ] prefix
 
 ## Features:
