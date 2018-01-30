@@ -1,7 +1,3 @@
-# Phar
-
-# [Download phar here](https://poggit.pmmp.io/ci/CLADevs/CrateSystem/~)
-
 ## TODO
 
 - [ ] Enchantment on Crate Items - (VanillaEnchantment)
@@ -16,10 +12,6 @@
 - [x] key command
 - [x] Amount
 - [x] Purchaseable Keys - (EconomyAPI)
- 
- ## Need Help?
- 
-  Open an Issue [here](https://github.com/CLADevs/CrateSystem/issues/new).
   
  # Developer:
  
